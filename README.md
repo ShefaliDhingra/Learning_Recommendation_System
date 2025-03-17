@@ -54,17 +54,6 @@ For detailed validation, please take a look at the **Stress_Testing.sql** file.
 
 ---
 
-## 📂 Project Structure
-```
-📦 Online-Learning-Recommendation-System
-│── 📜 README.md             # Project Report
-│── 📜 Database_LRS.sql      # SQL script for creating tables
-│── 📜 Stress_Testing.sql    # SQL queries for validation & testing
-│── 📜 ERD_LRS.pdf           # ERD Diagram
-```
-
----
-
 ## 🎯 Future Scope
 - **API Development** – Extend the database with a REST API for dynamic interaction.
 - **Machine Learning Integration** – Implement AI-based recommendation models.
